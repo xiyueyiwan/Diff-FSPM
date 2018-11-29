@@ -2,6 +2,7 @@ Diff-FSPM
 ======
 
 Mining Frequent Sequential Patterns under Differential Privacy
+see at: http://crad.ict.ac.cn/CN/abstract/abstract3071.shtml
 
 ## repository address
 
